@@ -1,0 +1,88 @@
+
+
+.red{
+    background-color: red;
+}
+
+.skyBlue{
+    background-color: aqua;
+}
+
+.green{
+    background-color: rgb(63, 255, 34);
+}
+
+.pink{
+    background-color: coral;
+}
+.yellow{
+background-color: yellow;
+}
+
+.mainHeader{
+    border: 1px solid black;
+    color: black;
+
+}
+
+.r1{
+  
+    border: 1px solid black;
+    font-size: 50px;
+    color: black;
+
+}
+
+.r2{
+   
+    border: 1px solid black;
+    color: black;
+}
+
+@media only screen and (min-width: 576px) {
+
+    .r1{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .c{
+      background-color:  rgb(63, 255, 34);
+      height: 20vh;
+      text-align: center;
+    }
+    .b{
+        background-color: red;
+        height: 30vh;
+    }
+    .mainHeader{
+        background-color: aqua;
+    }
+    .a{
+        height: 30vh;
+    }
+  }
+
+  @media only screen and (min-width: 768px) {
+    .r1{
+        display: flex;
+        flex-direction: column;
+        justify-content:flex-start;
+    }
+    .a{
+        height: 50vh;
+    }
+
+    .b{
+        height: 50vh;
+    }
+
+    .c{
+        height: 50vh;
+        background-color: red;
+    }
+    .mainHeader{
+        background-color: rgb(63, 255, 34);
+    }
+
+  }
