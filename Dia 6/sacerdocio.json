@@ -1,0 +1,16 @@
+
+{
+    "SacerdocioAaronico":{
+        "Restaurado":true,
+        "AnioRestaurado":1829,
+        "oficios":["Diaconos","Maestros","Presbiteros","obispo"]
+    },
+    "SacerdocioMayor":{
+        "Restaurado":true,
+        "AnioRestaurado":1829,
+        "Oficios":[
+            {"oficio":"Elder"},
+            {"oficio":"SumoSacerdote"}
+        ]
+    }
+}
