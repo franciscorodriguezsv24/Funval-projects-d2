@@ -13,11 +13,8 @@ fetch(URL)
         <td>${object.Nota1}</td>
         <td>${object.Nota2}</td>
         <td>${object.PromedioDeNotas}</td>
-        <td>${object.Observaciones}</td>
-
-
-
-        `
+        <td>${object.Observaciones}</td>`
+        
         tbody.appendChild(tr);
 
     });
