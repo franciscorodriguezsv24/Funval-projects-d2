@@ -1,0 +1,34 @@
+{
+    "Avengers":[
+        {
+            "id":1,
+            "name":"Iron man",
+            "Power":"Inteligence and armors"
+        },
+        {
+            "id":2,
+            "name":"Captain America",
+            "power":"Superhuman Strength and courageous"
+        },
+        {
+            "id":3,
+            "name":"Thor",
+            "power":"Superhuman Strength and lightning"
+        },
+        {
+            "id":4,
+            "name":"Black Widow",
+            "power":"Agility and Master martial artist"
+        },
+        {
+            "id":5,
+            "name":"Hulk",
+            "power":"Superhuman Strength and Size and Shape Alteration"
+        },
+        {
+            "id":6,
+            "name":"Hawkeye",
+            "power":"Superhuman eye and master of bow"
+        }
+    ]
+}
